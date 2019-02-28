@@ -1,22 +1,25 @@
 # 人工智能竞赛
 
 
-- KDD Cup
+- [KDD Cup](https://www.kdd.org/kdd2019/calls/view/kdd-cup-2019-call-for-proposals)
 	- 4月2号开始
-	- https://www.kdd.org/kdd2019/calls/view/kdd-cup-2019-call-for-proposals
+	- Basic machine learning / Auto ML
 - [CLEF 2019](http://clef2019.clef-initiative.eu/index.php?page=Pages/labs.html)
 - [TREC](https://trec.nist.gov/pubs/call2019.html)
+	- march 1
+	- answer retrieval/ News / medicine / information retrieval
 - [TAC](https://tac.nist.gov/)
 	- TAC2018
+	- 2018年报名时间截止7月15
 - ACE 已经停止
-- [阿里云天池](https://tianchi.aliyun.com/home/)
-	- 可报名竞赛：https://tianchi.aliyun.com/competition/gameList/activeList
 - [SemEval](http://alt.qcri.org/semeval2019/)
-	- 5月04开始
+	- 基本都结束了
 	- semantic parsing
 	- emotional detection/offensice language detection
 	- *suggestion mining from review anf forums 结束*
 	- fact checking/ rumour detection
+- [阿里云天池](https://tianchi.aliyun.com/home/)
+	- 可报名竞赛：https://tianchi.aliyun.com/competition/gameList/activeList
 - [kaggle数据竞赛](https://www.kaggle.com/competitions)
 	- 可报名竞赛：https://www.kaggle.com/competitions
 	- Predict stack price via news
