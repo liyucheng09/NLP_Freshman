@@ -75,7 +75,7 @@ reference url: https://github.com/NELSONZHAO/zhihu/tree/master/basic_seq2seq?152
 
 了解关系抽取的研究进展，baseline，和state of the art 方法。
 
-[中文综述，包含简单模型和数据介绍]:https://shomy.top/2018/02/28/relation-extraction/
+中文综述，包含简单模型和数据介绍：https://shomy.top/2018/02/28/relation-extraction/
 
 推荐论文：
 
