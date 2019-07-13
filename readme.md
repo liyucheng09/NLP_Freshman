@@ -75,9 +75,18 @@ reference url: https://github.com/NELSONZHAO/zhihu/tree/master/basic_seq2seq?152
 
 了解关系抽取的研究进展，baseline，和state of the art 方法。
 
+[中文综述，包含简单模型和数据介绍]:https://shomy.top/2018/02/28/relation-extraction/
+
 推荐论文：
 
-- Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Network
+- 当前所有论文的baseline：Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Network
+- 2018年的State-of-the-art：Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
+- 2016年的SOTA-效果依然很好：End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+- 使用GAN处理远程监督数据噪声-当前的重要研究方向之一2018AAAI：Reinforcement Learning for Relation Classification from Noisy Data
+- 联合抽取实体和关系
+	- Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
+	- Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees
+- 多样例，多标签的抽取：Multi-instance Multi-label Learning for Relation Extraction
 - An interpretable Generative Adversarial Approach to Classification of Latent Entity Relations in Unstructured Sentences
 - Distant supervision for relation extraction without labeled data
 
