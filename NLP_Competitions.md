@@ -6,14 +6,13 @@
 	- Basic machine learning / Auto ML
 - [CLEF 2019](http://clef2019.clef-initiative.eu/index.php?page=Pages/labs.html)
 - [TREC](https://trec.nist.gov/pubs/call2019.html)
-	- march 1
 	- answer retrieval/ News / medicine / information retrieval
 - [TAC](https://tac.nist.gov/)
 	- TAC2018
 	- 2018年报名时间截止7月15
 - ACE 已经停止
-- [SemEval](http://alt.qcri.org/semeval2019/)
-	- 基本都结束了
+- [SemEval](http://alt.qcri.org/semeval2020/)
+	- 中文介绍：https://zhuanlan.zhihu.com/p/81062536?utm_source=wechat_session&utm_medium=social&utm_oi=30536802238464
 	- semantic parsing
 	- emotional detection/offensice language detection
 	- *suggestion mining from review anf forums 结束*

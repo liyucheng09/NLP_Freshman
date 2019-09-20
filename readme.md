@@ -1,5 +1,23 @@
 # NLP 学习路线
 
+## 指南
+
+###################
+
+**竞赛**
+
+查看NLP领域的众多竞赛情况（不断更新中）：[竞赛](https://github.com/nine09/NLP-Syllabus/blob/master/NLP_Competitions.md)
+
+##################
+
+**进阶指南：**
+
+研究生阶段正式开始。NLP研究方向，必修知识指南在这里：[进阶](https://github.com/nine09/NLP-Syllabus/blob/master/researcher.md)
+
+###################
+
+以下为研究生入门指南。
+
 ## 基础知识
 
 1. 数学
@@ -62,72 +80,3 @@ reference url: https://github.com/NELSONZHAO/zhihu/tree/master/basic_seq2seq?152
 百度网盘链接: https://pan.baidu.com/s/1NzUdiIkIk330VxbWEGL3MQ 提取码: 32q3
 
 了解知识图谱的基础知识，常用工具与研究方向
-
-## 拓展方向一：对话生成
-
-推荐论文：
-
-- Generating Informative Responses with Controlled Sentence Function
-- Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders
-- Commonsense Knowledge Aware Conversation Generation with Graph Attention
-
-## 拓展方向二：关系抽取
-
-了解关系抽取的研究进展，baseline，和state of the art 方法。
-
-中文综述，包含简单模型和数据介绍：https://shomy.top/2018/02/28/relation-extraction/
-
-推荐论文：
-
-- 当前所有论文的baseline：Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Network
-- 2018年的State-of-the-art：Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
-- 2016年的SOTA-效果依然很好：End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
-- 使用GAN处理远程监督数据噪声-当前的重要研究方向之一2018AAAI：Reinforcement Learning for Relation Classification from Noisy Data
-- 联合抽取实体和关系
-	- Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
-	- Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees
-- 多样例，多标签的抽取：Multi-instance Multi-label Learning for Relation Extraction
-- An interpretable Generative Adversarial Approach to Classification of Latent Entity Relations in Unstructured Sentences
-- Distant supervision for relation extraction without labeled data
-
-## 拓展方向三：KBQA
-
-基于知识库的问答系统。
-
-推荐论文：
-
-- [ACL15]Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base
-- [ACL17]Improved Neural Relation Detection for Knowledge Base Question Answering
-
-## 拓展方向四：机器翻译
-
-推荐论文：
-
-- Neural Machine Translation by Jointly Learning to Align and Translate
-- A Method for Stochastic Optimization
-- Neural Machine Translation of Rare Words with Subword Units
-- Attention is All You Need
-
-## 拓展学习：Transfer-Learning
-
-迁移学习的资料合集，包括论文和代码：
-
-reference url: http://transferlearning.xyz/
-
-## 拓展学习：Reinforcement Learning & GAN
-
-GAN for text generation:
-
-推荐论文：
-
-- GANs for Sequences of Discrete Elements with the Gumbel-softmax Distribution
-- Generating Text via Adversarial Training
-- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
-- Adversarial Feature Matching for Text Generation
-- Long Text Generation via Adversarial Training with Leaked Information   AAAI2018
-
-
-强化学习：
-
-- An Introduction to Deep Reinforcement Learning: https://arxiv.org/abs/1811.12560
-- 强化学习入门教程：https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
